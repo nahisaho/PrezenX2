@@ -1,0 +1,57 @@
+{
+  "project_id": "20250627_1530_PrezenX2_Demo",
+  "created": "2025-06-27T15:30:00Z",
+  "basic_info": {
+    "type": "ITテクニカル講演",
+    "title": "AI時代のプレゼン革命！PrezenX2による効率的なプレゼンテーション作成",
+    "subtitle": "Presentation Zen原則に基づく自動プレゼンテーション作成ツール",
+    "purpose": "PrezenX2の機能と価値を伝え、実際の導入につなげる",
+    "duration": 45,
+    "qa_time": 15,
+    "total_time": 60
+  },
+  "audience": {
+    "primary": "ITエンジニア、プロダクトマネージャー、デザイナー、研究者",
+    "size": "30-50名",
+    "expertise_level": "中級者",
+    "characteristics": "プレゼンテーション作成の課題を抱えており、効率化に関心が高い",
+    "expected_knowledge": [
+      "基本的なプレゼンテーション作成経験",
+      "IT技術への理解",
+      "効率化ツールへの関心"
+    ]
+  },
+  "implementation": {
+    "format": "対面",
+    "date": "2025-07-15",
+    "time": "15:00-16:00",
+    "venue": "テックカンファレンス会場",
+    "presenter": "PrezenX2開発チーム",
+    "equipment": ["プロジェクター", "マイク", "デモ用PC"]
+  },
+  "constraints": {
+    "must_include": [
+      "実際のデモ",
+      "中間ファイルの価値",
+      "Presentation Zen原則の実装",
+      "実際の生成プロセス",
+      "ライブデモ"
+    ],
+    "avoid": [
+      "過度に技術的な実装詳細",
+      "複雑なアルゴリズム説明",
+      "コードの詳細"
+    ],
+    "style": "実践的",
+    "tone": "プロフェッショナル",
+    "special_requirements": "実際のPrezenX2を使った生成プロセスをライブデモで見せる"
+  },
+  "success_criteria": {
+    "primary_goal": "PrezenX2の価値理解と導入意欲の向上",
+    "measurable_outcomes": [
+      "デモ後の質問数",
+      "ツール体験希望者数",
+      "GitHub Starの増加"
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "project_id": "20250627_1530_PrezenX2_Demo",
+  "created": "2025-06-27T15:30:00Z",
+  "personas": [
+    {
+      "id": "persona_01",
+      "name": "田中 健太",
+      "age": 32,
+      "position": "シニアエンジニア",
+      "company_size": "大手IT企業",
+      "experience_years": 8,
+      "presentation_frequency": "月2-3回",
+      "ai_knowledge_level": "中級",
+      "concerns": [
+        "技術説明プレゼンの準備時間が長すぎる",
+        "聴衆のレベルに合わせた説明が難しい",
+        "アーキテクチャ図の作成に時間がかかる"
+      ],
+      "motivation": "技術的内容を分かりやすく伝えたい",
+      "pain_points": [
+        "週末まで資料作成に追われる",
+        "同じような資料を何度も作り直す",
+        "デザインセンスに自信がない"
+      ],
+      "decision_influence": "中",
+      "budget_authority": "限定的",
+      "communication_preference": "具体例とデモ重視",
+      "expected_outcome": "資料作成時間の大幅短縮"
+    },
+    {
+      "id": "persona_02", 
+      "name": "佐藤 美咲",
+      "age": 29,
+      "position": "プロダクトマネージャー",
+      "company_size": "スタートアップ",
+      "experience_years": 5,
+      "presentation_frequency": "週1-2回",
+      "ai_knowledge_level": "初級",
+      "concerns": [
+        "ステークホルダー向け資料の品質向上",
+        "限られた時間での効果的なプレゼン作成",
+        "投資家向けピッチの説得力強化"
+      ],
+      "motivation": "プロダクトの価値を効果的に伝えたい",
+      "pain_points": [
+        "資料作成に時間を取られてプロダクト開発時間が削られる",
+        "ストーリー構成に悩む時間が長い",
+        "データの視覚化が上手くできない"
+      ],
+      "decision_influence": "高",
+      "budget_authority": "中程度",
+      "communication_preference": "ROI重視、実例中心",
+      "expected_outcome": "プレゼンテーションの説得力向上"
+    },
+    {
+      "id": "persona_03",
+      "name": "山田 裕司",
+      "age": 45,
+      "position": "研究開発部長",
+      "company_size": "大手メーカー",
+      "experience_years": 20,
+      "presentation_frequency": "月1-2回",
+      "ai_knowledge_level": "初級",
+      "concerns": [
+        "学会発表の質的向上",
+        "複雑な技術内容の分かりやすい説明",
+        "研究成果の社内承認獲得"
+      ],
+      "motivation": "研究成果を正確かつ効果的に伝達したい",
+      "pain_points": [
+        "学術的内容を一般向けに説明するのが困難",
+        "資料作成の属人化",
+        "チーム内での資料品質のばらつき"
+      ],
+      "decision_influence": "高",
+      "budget_authority": "高",
+      "communication_preference": "エビデンス重視、段階的説明",
+      "expected_outcome": "チーム全体の資料作成スキル向上"
+    },
+    {
+      "id": "persona_04",
+      "name": "鈴木 亜美",
+      "age": 27,
+      "position": "UX/UIデザイナー",
+      "company_size": "中堅IT企業",
+      "experience_years": 4,
+      "presentation_frequency": "週1回",
+      "ai_knowledge_level": "中級",
+      "concerns": [
+        "デザイン提案の論理的説明",
+        "ユーザー調査結果の効果的な可視化",
+        "開発チームとの認識合わせ"
+      ],
+      "motivation": "デザインの価値と根拠を明確に伝えたい",
+      "pain_points": [
+        "デザインの感覚的な部分を言語化するのが困難",
+        "データとデザインの整合性を取るのに時間がかかる",
+        "技術者向けの説明に苦慮"
+      ],
+      "decision_influence": "中",
+      "budget_authority": "低",
+      "communication_preference": "視覚的表現重視、ストーリー性",
+      "expected_outcome": "デザイン提案の承認率向上"
+    },
+    {
+      "id": "persona_05",
+      "name": "高橋 智也",
+      "age": 38,
+      "position": "技術営業",
+      "company_size": "SaaS企業",
+      "experience_years": 12,
+      "presentation_frequency": "週3-4回",
+      "ai_knowledge_level": "初級",
+      "concerns": [
+        "顧客向けデモの説得力向上",
+        "技術的特徴の分かりやすい説明",
+        "競合との差別化ポイント明確化"
+      ],
+      "motivation": "技術的価値を顧客に確実に伝えて成約につなげたい",
+      "pain_points": [
+        "顧客ごとに資料をカスタマイズする時間が膨大",
+        "技術と営業の言語の違い",
+        "プレゼン準備で営業活動時間が削られる"
+      ],
+      "decision_influence": "中",
+      "budget_authority": "中程度",
+      "communication_preference": "成果重視、カスタマイズ性",
+      "expected_outcome": "営業効率の大幅向上"
+    },
+    {
+      "id": "persona_06",
+      "name": "伊藤 康子",
+      "age": 42,
+      "position": "情報システム部課長",
+      "company_size": "大手金融機関",
+      "experience_years": 18,
+      "presentation_frequency": "月1回",
+      "ai_knowledge_level": "初級",
+      "concerns": [
+        "経営層への IT投資提案",
+        "セキュリティリスクの適切な説明",
+        "ROI の明確な提示"
+      ],
+      "motivation": "IT投資の必要性を経営層に理解してもらいたい",
+      "pain_points": [
+        "技術的詳細と経営判断要素のバランス",
+        "リスク説明の難しさ",
+        "承認獲得までのプロセスが長い"
+      ],
+      "decision_influence": "高",
+      "budget_authority": "高",
+      "communication_preference": "リスク管理重視、段階的承認",
+      "expected_outcome": "IT投資提案の承認率向上"
+    },
+    {
+      "id": "persona_07",
+      "name": "林 大輔",
+      "age": 25,
+      "position": "ジュニアエンジニア",
+      "company_size": "中堅SI企業",
+      "experience_years": 2,
+      "presentation_frequency": "月1回",
+      "ai_knowledge_level": "中級",
+      "concerns": [
+        "上司への進捗報告の質向上",
+        "技術学習内容の整理・共有",
+        "プレゼンスキルの基礎習得"
+      ],
+      "motivation": "プレゼンテーションスキルを向上させてキャリアアップしたい",
+      "pain_points": [
+        "何から始めればいいかわからない",
+        "先輩の資料を真似してもうまくいかない",
+        "プレゼンに対する苦手意識"
+      ],
+      "decision_influence": "低",
+      "budget_authority": "なし",
+      "communication_preference": "学習支援、テンプレート活用",
+      "expected_outcome": "プレゼンテーションスキルの体系的習得"
+    },
+    {
+      "id": "persona_08",
+      "name": "松本 雅彦",
+      "age": 50,
+      "position": "CTO",
+      "company_size": "上場IT企業",
+      "experience_years": 25,
+      "presentation_frequency": "週1回",
+      "ai_knowledge_level": "中級",
+      "concerns": [
+        "組織全体の資料作成効率化",
+        "技術戦略の社内浸透",
+        "投資対効果の最大化"
+      ],
+      "motivation": "組織の生産性向上とイノベーション創出を実現したい",
+      "pain_points": [
+        "チーム間での資料品質のばらつき",
+        "資料作成に費やす時間のROI",
+        "新技術導入のコスト対効果"
+      ],
+      "decision_influence": "最高",
+      "budget_authority": "最高",
+      "communication_preference": "戦略的視点、組織的効果",
+      "expected_outcome": "組織全体の生産性向上とコスト削減"
+    }
+  ],
+  "summary": {
+    "total_personas": 8,
+    "expertise_distribution": {
+      "初級": 4,
+      "中級": 4,
+      "上級": 0
+    },
+    "position_distribution": {
+      "エンジニア": 2,
+      "マネージャー": 3,
+      "デザイナー": 1,
+      "営業": 1,
+      "経営層": 1
+    },
+    "decision_influence": {
+      "高": 4,
+      "中": 3,
+      "低": 1
+    },
+    "primary_concerns": [
+      "時間効率の改善",
+      "資料品質の向上", 
+      "説得力の強化",
+      "スキル習得"
+    ]
+  }
+}

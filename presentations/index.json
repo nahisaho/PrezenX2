@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "id": "20250626_1406",
+      "title": "商業高校教員向け生成AI勉強会",
+      "type": "ITテクニカル講演",
+      "status": "完了",
+      "created": "2025-06-26T14:06:00Z",
+      "updated": "2025-06-26T14:30:00Z",
+      "presenter": "中田寿穂",
+      "organization": "日本マイクロソフト",
+      "directory": "20250626_1406_商業高校教員向け生成AI勉強会",
+      "duration": {
+        "presentation": 70,
+        "qa": 20,
+        "total": 90
+      },
+      "slides_count": 24,
+      "storytelling_method": "段階的学習型 + 問題解決型 + 体験共有型",
+      "personas_count": 8,
+      "deliverables": {
+        "presentation": "presentation.pptx",
+        "talk_script": "talk_script.md",
+        "attachments": ["faq.md", "survey.md", "references.md", "followup.md"],
+        "quality_report": "quality_report.md",
+        "deliverables_list": "deliverables_list.md"
+      },
+      "quality_score": "A",
+      "completion_percentage": 100
+    },
+    {
+      "id": "20250626_1458",
+      "title": "大学教員向け生成AI活用講演",
+      "type": "ITテクニカル講演",
+      "status": "進行中",
+      "created": "2025-06-26T14:58:00Z",
+      "updated": "2025-06-26T14:58:00Z",
+      "presenter": "中田寿穂",
+      "organization": "日本マイクロソフト",
+      "directory": "20250626_1458_大学教員向け生成AI活用講演",
+      "duration": {
+        "presentation": 110,
+        "qa": 20,
+        "total": 130
+      }
+    }
+  ]
+}
